@@ -1,7 +1,4 @@
 one line
 second line
 third line
-
 this line to test branches
-
-this line is ideited in master
